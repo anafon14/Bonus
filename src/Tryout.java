@@ -1,3 +1,16 @@
+/**
+
+ * Name: Ana Luiza Fonseca Teixeira
+
+ * Teacher: Mr.Hardman
+
+ * Assignment #3, Bonus Program
+
+ * Date Last Modified: 11/4/2016
+
+ */
+
+
 import java.util.Random;
 import java.util.Scanner;
 
